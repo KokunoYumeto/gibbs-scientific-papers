@@ -33,6 +33,11 @@ agree with the print. On page 45 a prime was missing ("L′ and V" for "L′ and
 in italics were roman; these are corrected. The other pages have not had a second check. Expect occasional
 differences in symbols, primes and italics.
 
+## Status
+
+A partial edition of Volume I, printed pages 1–134. Errors may remain; corrections are welcome through the
+[issues page](https://github.com/KokunoYumeto/gibbs-scientific-papers/issues).
+
 ## Source
 
 The transcription follows the Internet Archive scan of the Gerstein Library (University of Toronto) copy,
@@ -46,11 +51,6 @@ Run `pdflatex` twice on each file in `tex/`.
 
 Gibbs's text is in the public domain. The transcription and typesetting are dedicated to the public domain under
 [CC0 1.0](LICENSE).
-
-## Earlier versions
-
-Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20649835](https://doi.org/10.5281/zenodo.20649835).
-Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
