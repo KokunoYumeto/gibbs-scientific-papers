@@ -28,7 +28,7 @@ pages. Each installment was checked against the scan by AI, with OCR used only t
 
 ## Checks
 
-On 27 October 2026 Claude Opus 5.5 (Anthropic, effort not recorded) compared printed pages 20, 45 and 130 with the scan. Pages 20 and 130
+On 27 October 2026 Claude Opus 5.5 (Anthropic) at effort max compared printed pages 20, 45 and 130 with the scan. Pages 20 and 130
 agree with the print. On page 45 a prime was missing ("L′ and V" for "L′ and V′") and two terms that the print sets
 in italics were roman; these are corrected. The other pages have not had a second check. Expect occasional
 differences in symbols, primes and italics.
